@@ -16,5 +16,10 @@ namespace WindowsFormsApplication3
         {
             InitializeComponent();
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            //Them Fome 2
+        }
     }
 }
